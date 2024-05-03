@@ -1,5 +1,5 @@
 # webgl-library-v07
 a library of webgl programming
 
-[webscripts.biz/webgl](https://www.webscripts.biz/webgl)
+[3deem.com/webgl/libv07](https://3deem.com/webgl/libv07/index.html)
 
